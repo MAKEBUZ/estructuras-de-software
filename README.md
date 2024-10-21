@@ -1,7 +1,10 @@
 
 El codigo esta desarrollado en vue.
 
-Para ver la pagina web, tiene que hacer lo siguiente.
+
+
+
+Para ver la pagina web en un host local, tiene que hacer lo siguiente.
 
 Descargar y descromprimir el archivo .zip
 
