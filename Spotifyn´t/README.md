@@ -9,4 +9,4 @@ En una terminal ejecutar los siguientes comandos.
 
 2. npm run dev
 
-despues de ejecutar los comandos, se abrira un local host en el cual estara la pagina, ingresar ahi y listo.
+despues de ejecutar los comandos, se abrira un local host en el cual estara la pagina, ingresar en el local host y listo.
