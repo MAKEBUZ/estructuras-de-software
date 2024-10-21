@@ -1,10 +1,8 @@
-
 El codigo esta desarrollado en vue.
 
+[Spotifyn't](https://estructuras-de-software.vercel.app/) Publicada en Vercel para la visualización web.
 
-
-
-Para ver la pagina web en un host local, tiene que hacer lo siguiente.
+Para ver la pagina web en un host local, se tiene que hacer lo siguiente.
 
 Descargar y descromprimir el archivo .zip
 
