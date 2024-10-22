@@ -36,7 +36,7 @@ class MediaPlayer {
   }
 }
 
-class DoublyLinkedList {
+class MusicManager {
   head: MediaPlayer | null;
   tail: MediaPlayer | null;
   length: number;
@@ -209,7 +209,7 @@ export default {
       ],
       player: new Audio(),
       volume: 0.5,
-      playlist: new DoublyLinkedList()
+      playlist: new MusicManager()
     };
   },
   created() {
